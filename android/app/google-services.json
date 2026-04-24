@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "633272558603",
+    "project_id": "addu-pestdetector",
+    "storage_bucket": "addu-pestdetector.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633272558603:android:a62bb7b93c4d3229f9130e",
+        "android_client_info": {
+          "package_name": "com.example.addu_pest_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633272558603-3be2doklu107527s5nocmkkde59vd7o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.addu_pest_control",
+            "certificate_hash": "95bd40ae1afeac905dd49ef1978866b1c8914da7"
+          }
+        },
+        {
+          "client_id": "633272558603-ektq4qt8isijk6if6lulieq1833ttdi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBrukGu5BMpbujLTEKaHryF1kbSPbm6IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633272558603-ektq4qt8isijk6if6lulieq1833ttdi4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633272558603-hnjjvp71bsqloe3qrrl54urnj62ibcqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adduPestControl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633272558603:android:97294949f4bb1ce1f9130e",
+        "android_client_info": {
+          "package_name": "com.example.addu_pest_detector_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633272558603-ektq4qt8isijk6if6lulieq1833ttdi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBrukGu5BMpbujLTEKaHryF1kbSPbm6IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633272558603-ektq4qt8isijk6if6lulieq1833ttdi4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633272558603-hnjjvp71bsqloe3qrrl54urnj62ibcqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adduPestControl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
